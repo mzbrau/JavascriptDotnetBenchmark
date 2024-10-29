@@ -1,2 +1,3 @@
 # JavascriptDotnetBenchmark
-Benchmarks which compare the performance of javascript interpreters in dotnet
+
+Benchmarks which compare the perfomance of javascript interpreters in dotnet.
